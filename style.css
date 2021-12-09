@@ -1,0 +1,71 @@
+body {
+    background: blanchedalmond;
+}
+
+h1 {
+    background: orangered;
+    display:flex;
+    justify-content: center;
+    margin: 60px 20px 20px 20px;
+}
+
+
+#forex-image {
+    height: 125px;
+    width: 130px;
+  
+}
+
+ .first {
+    font-size: 35px;
+    color: rgb(29, 182, 29);
+    display: flex;
+    justify-content: flex-start;
+}
+
+#crypto-image {
+    height: 120px;
+    width: 150px;
+    
+}
+
+.second {
+    font-size: 40px;
+    color: red;
+    display: flex;
+    justify-content: center;
+}
+
+fieldset{
+
+    background: grey;
+    border: 10px solid darkblue;
+    border-radius: 20px;
+    margin-bottom: 10px;
+    width: 720px;
+    display: center;
+    justify-content: center;
+}
+
+legend{
+    background: burlywood;
+    border-radius: 10px;
+    color: black;
+    padding: 12px;
+}
+
+.all-pictures {
+    border: 1px solid red;
+    display:flex;
+    
+}
+
+#camera-image {
+    height: 100px;
+    width: 150px;
+}
+
+.third {
+    font-size: 40px;
+    color: orange;
+}
